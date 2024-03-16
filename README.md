@@ -3,7 +3,7 @@
 
 ```diff
 + 👨‍💻 I'm passionate about giving life to ideas, you can check some of them in the pinned section.
-- 🛠️ Studying Web3 and I will soon start learning Solidity and Rust.
+- 🛠️ Studying Web3 and Solidity. I will soon start learning Rust.
 ! 📫 Feel free to get in touch!
 ```
 
