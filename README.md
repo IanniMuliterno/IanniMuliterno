@@ -23,11 +23,7 @@
 <p align="center">  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
- <div align="center">
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=iannimuliterno&theme=black-ice&hide_border=true&background=DD272700" />
-</div>
-
+ 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iannimuliterno&label=Profile%20views&color=0e75b6&style=flat" alt="iannimuliterno" /> </p>
 
