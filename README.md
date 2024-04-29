@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ían Muliterno</h1>
-<h3 align="center">Data Scientist and Data Engineer</h3>
+<h3 align="center">Data Scientist and Shiny Developer</h3>
+<h4 align="center">Leveraging Data Engineering Skills to Enhance Data Solutions</h4>
+
 
 ```diff
 + 👨‍💻 I'm passionate about giving life to ideas, you can check some of them in the pinned section.
-- 🛠️ Web3 enthusiast! I am enrolled in the Chainlink Smart Contract bootcamp (Apr2024). I will soon start learning Rust.
-! 📫 Feel free to get in touch!
+- 🛠️ Web3 enthusiast! I participated in the Chainlink Smart Contract bootcamp (Apr2024). I will soon start learning Rust.
+- 🛠️ Currently enrolled in the Chainlink Hackathon (May24 - Jun24)
+! 📫 Feel free to get in touch! I will find my contact below.
 ```
 
 <h3 align="center">Languages and Tools</h3>
