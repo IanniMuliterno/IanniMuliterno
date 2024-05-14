@@ -6,7 +6,6 @@
 ```diff
 + 👨‍💻 I'm passionate about giving life to ideas, you can check some of them in the pinned section.
 - 🛠️ Web3 enthusiast! I participated in the Chainlink Smart Contract bootcamp (Apr2024). I will soon start learning Rust.
-- 🛠️ Currently enrolled in the Chainlink Hackathon (May24 - Jun24)
 ! 📫 Feel free to get in touch! I will find my contact below.
 ```
 
