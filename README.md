@@ -3,8 +3,8 @@
 
 ```diff
 + 👨‍💻 I'm passionate about giving life to ideas, you can check some of them in the pinned section.
-- 🛠️ Web3 enthusiast! I participated in the Chainlink Smart Contract bootcamp (Apr2024).
-- 🛠️ I'm currently studying Rust with Ackee Blockchain Security (Oct2024).
+- 🛠️ Web3 enthusiast! I participated in the Chainlink Smart Contract bootcamp (Apr2024), also studied Rust with Ackee Blockchain Security (Oct2024).
+- 🛠️ Currently expanding my knowledge of pytorch with R (Jan2025).
 ! 📫 Feel free to get in touch! you will find my contact below.
 ```
 
