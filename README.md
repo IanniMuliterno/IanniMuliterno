@@ -11,13 +11,13 @@
 <h3 align="center">Languages and Tools</h3>
 
 <h4 align="center">Data and ML</h4>
-<p align="center">R, Python, Pytorch, Scala, Scikit-learn, Selenium, Sagemaker, AzureML</p>
+<p align="center">R, Python, Pytorch, MLFlow, Scikit-learn, Selenium, Sagemaker, AzureML</p>
 <h4 align="center">Cloud</h4>
 <p align="center">AWS, Azure</p>
 <h4 align="center">Software Engineering</h4>
 <p align="center">Git, JS, TS, Node</p>
 <h4 align="center">Database</h4>
-<p align="center">MySQL, Oracle, Snowflake</p>
+<p align="center">MySQL, Oracle, Snowflake, DBT, Airflow</p>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iannimuliterno&label=Profile%20views&color=0e75b6&style=flat" alt="iannimuliterno" /> </p>
