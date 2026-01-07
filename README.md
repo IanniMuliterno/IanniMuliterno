@@ -11,9 +11,9 @@
 <h3 align="center">Languages and Tools</h3>
 
 <h4 align="center">Data and ML</h4>
-<p align="center">R, Python, Pytorch, MLFlow, Scikit-learn, Selenium, Sagemaker, AzureML</p>
+<p align="center">Python, R, Pytorch, MLFlow, Langchain, Scikit-learn, Selenium, Sagemaker, AzureML</p>
 <h4 align="center">Cloud</h4>
-<p align="center">AWS, Azure</p>
+<p align="center">AWS, Azure, GCP</p>
 <h4 align="center">Software Engineering</h4>
 <p align="center">Git, JS, TS, Node</p>
 <h4 align="center">Database</h4>
