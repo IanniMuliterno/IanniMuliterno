@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ían Muliterno</h1>
-<h3 align="center">Data Scientist and Shiny Developer</h3>
+<h3 align="center">AI/ML engineer, Data Scientist and Philosopher</h3>
 
 ```diff
-+ 👨‍💻 I'm passionate about giving life to ideas, you can check some of them in the pinned section.
++ 👨‍💻 I'm passionate about learning and giving life to ideas, you can check some of them in the pinned section.
 - 🛠️ Web3 enthusiast! I participated in the Chainlink Smart Contract bootcamp (Apr2024), also studied Rust with Ackee Blockchain Security (Oct2024).
 - 🛠️ Currently expanding my knowledge with a Deep Learning and Computer Vision Post-Grad (May2025 - Ongoing).
 ! 📫 Feel free to get in touch! you will find my contact below.
@@ -17,7 +17,7 @@
 <h4 align="center">Software Engineering</h4>
 <p align="center">Git, JS, TS, Node</p>
 <h4 align="center">Database</h4>
-<p align="center">MySQL, Oracle, Snowflake, DBT, Airflow</p>
+<p align="center">MySQL, Postgres, Oracle, Snowflake, DBT, Airflow</p>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iannimuliterno&label=Profile%20views&color=0e75b6&style=flat" alt="iannimuliterno" /> </p>
